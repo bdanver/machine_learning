@@ -6,7 +6,9 @@
 ## Github 
 - Keep things organized in different directories 
 - Add files, commit, push 
-- Must always connect github to .ipynb 
+- Must always connect github to .ipynb
+
+**Always pull first, in case you added .ipynb to your repo. Local must be up to date** 
 ## Tips for Learning
 - Set a learning goal before lesson
 - Take notes during 'lecture' then type notes out to publish to repo (this keep things organzied)
